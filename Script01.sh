@@ -1,3 +1,3 @@
 !#/bin/bash
 
-echo "Hi, I'm script"
+echo "Hi, I'm script from new branch"
